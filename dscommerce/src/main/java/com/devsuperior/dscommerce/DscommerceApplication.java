@@ -8,6 +8,8 @@ public class DscommerceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DscommerceApplication.class, args);
+		
+		
 	}
 
 }
